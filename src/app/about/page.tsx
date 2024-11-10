@@ -1,7 +1,7 @@
 export default function Home(){
     return(
         <div>
-            <div className="about">
+            <div className="text-[midnightblue] font-bold font-serif">
             Seeking to leverage my Next.js skills to build dynamic, responsive web applications and propel my career as a front-end developer.
             <h4>Skills</h4>
                 <ul>

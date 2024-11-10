@@ -1,7 +1,7 @@
 export default function Home(){
     return(
         <div>
-            <div className="education">
+            <div className="text-[midnightblue] font-serif">
             <h4>Education</h4>
                 <p>
                     <b>ADA</b> from Abdullah College (Ongoing)<br/>

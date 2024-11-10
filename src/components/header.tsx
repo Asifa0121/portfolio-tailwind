@@ -2,11 +2,11 @@ import Link from "next/link"
 
 export default function Header(){
     return(
-        <div className="HeaderBody">
-            <div className="Header">
-            
-                <ul className="HeaderList">
-                    
+        <div>
+            <div className="center">
+             
+                <ul className="flex bg-[midnightblue] center text-white h-11 justify-center items-center space-x-8">
+                     
                 <Link href={"/"}> <li>Home</li></Link>
                 <Link href={"./contact"}> <li>Contact</li></Link>
                 <Link href={"./about"}> <li>About</li></Link>
